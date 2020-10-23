@@ -1,3 +1,4 @@
 funtion mapToNegativize(sourceArray) {
-  let sourceArray
+  let newSourceArray = []
+  
 }
